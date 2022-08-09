@@ -12,7 +12,7 @@
 <hr />
 
 **Now Playing** on Spotify <br><br>
-[![Spotify](https://aenq.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31vfy4nrgusvgzjj4xh563wifvwq) <br>
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31vfy4nrgusvgzjj4xh563wifvwq) <br>
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vfy4nrgusvgzjj4xh563wifvwq&count=3) -->
 
 
