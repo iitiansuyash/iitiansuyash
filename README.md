@@ -7,32 +7,8 @@
 <!-- Experience -->
 <h2>Experience 🚀</h2>
 
-**CDC Automation, SDE Intern**
-*(Jun 2023 - Present)*
-- Developing a student and company-facing portal for placement and internships.
-- Facilitating 7000+ students with registrations and notifications.
-- Tech stack: ReactJS, Redux, Typescript, MySQL.
-
-**HackFest 2023, Technical Head**
-*(Mar 2023 - Apr 2023)*
-- Implemented team login feature with a unique ID for authentication.
-- Handled 4000+ registrations and 20k+ post requests for the time management system.
-- [Website Link](https://hackfest2k23.vercel.app)
-
-**YellowBacks, Frontend Developer Intern**
-*(Feb 2022 - Mar 2022)*
-- Developed software in a test environment.
-- Added schema rendering recently added data for live display.
-- [Website Link](https://www.yellowbacks.com)
-
-<!-- Technical Skills -->
-<h2>Technical Skills 💻</h2>
-
-- **Languages:** C/C++, Javascript
-- **Web Development:** HTML, CSS, TailwindCSS, Javascript, NodeJS, ExpressJS, VueJS, NextJS, React, TypeScript
-- **Database:** Firebase, MongoDB, Django, Sanity, MySQL
-- **Tools:** Git, Postman, GCP
-- **CS Fundamentals:** DSA, OS, GPU, OOPs, DBMS
+**BeMap Inc. Japan, SDE**
+*(Oct 2025 - Present)*
 
 <!-- Education -->
 <h2>Education 🎓</h2>
